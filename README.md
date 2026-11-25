@@ -2,6 +2,10 @@
 
 A clean, modern multi-provider AI chat workspace built with **Python**, **Gradio 6**, and the **OpenAI SDK**. Switch between Groq, Google Gemini, OpenRouter, OpenAI, or your own OpenAI-compatible endpoints (including local servers like Ollama and LM Studio) from a single interface.
 
+## Preview
+
+![Multi-LLM Chatbot Dark Mode](dark.png)
+
 ## Features
 
 - **Multi-Provider Switching**: Switch seamlessly between built-in providers and models from the sidebar.
